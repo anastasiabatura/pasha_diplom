@@ -141,4 +141,33 @@ a img {
 	padding-top: 10px;
 }
 
+.progress-bar {
+	background-color:#209d24;
+}
 
+.answer {
+	margin: 20px 0 20px 20px;
+}
+.after-results {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.material-subject {
+	margin-bottom: 30px;
+}
+
+.material-subject a {
+	display: inline-block;
+	width:100%;
+	background: #209d24;
+	padding:5% 0;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+	font-size: 18px;
+}
+
+.logo {
+	margin: 5px 0 0 15px;
+}
